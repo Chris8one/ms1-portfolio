@@ -1,3 +1,14 @@
+### Links to work with in this project:
+- Code Commerce: [How To Make a Parallax Scrolling Website In React](https://www.youtube.com/watch?v=vQg-VjCPKUE)
+
+- Dev Ed: [Awesome Full Page Scroll Effect Tutorial!](https://www.youtube.com/watch?v=htw4iKMYzEc)
+
+- Kevin Powell: [Fade and scroll items into view while scrolling](https://www.youtube.com/watch?v=huVJW23JHKQ)
+
+- React Scroll Parallax: [react-scroll-parallax](https://www.npmjs.com/package/react-scroll-parallax)
+
+- Unsplash Images: [Unsplash](https://unsplash.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
