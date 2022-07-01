@@ -5,9 +5,11 @@
 
 - Kevin Powell: [Fade and scroll items into view while scrolling](https://www.youtube.com/watch?v=huVJW23JHKQ)
 
-- React Scroll Parallax: [react-scroll-parallax](https://www.npmjs.com/package/react-scroll-parallax)
+- React Parallax: [react-parallax](https://www.npmjs.com/package/react-parallax)
 
 - Unsplash Images: [Unsplash](https://unsplash.com/)
+
+- Diagonal Div: [Diagonal Div](https://codepen.io/theczardrive/pen/ZEvxeLQ)
 
 # Getting Started with Create React App
 
